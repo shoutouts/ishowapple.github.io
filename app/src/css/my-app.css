@@ -1,0 +1,131 @@
+@font-face {
+	font-family: "San Francisco Display Ultralight";
+	font-style: normal;
+    font-weight: 400;
+    src: url(applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.eot) format("embedded-opentype"), url(applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2) format("woff2"), url(applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff) format("woff"), url(applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.svg#San Francisco Display Ultralight") format("svg")
+}
+body{
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	color: #fff!important;
+}
+
+h1{
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	color: #fff!important;
+}
+
+h2{
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	color: #fff!important;
+}
+
+h3{
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	color: #fff!important;
+}
+
+h4{
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	color: #fff!important;
+}
+
+h5{
+	font-family: "San Francisco Display Ultralight";
+}
+
+.hr {
+    margin-top: 10px;
+    background-color: #E5E5EA;
+    width: 100%;
+    height: 1px;
+}
+
+/* Gradients */
+.card {
+  border-radius: 15px;
+  -webkit-box-shadow: 0px 5px 13px -2px rgba(174, 160, 163, 0.61);
+  -moz-box-shadow: 0px 5px 13px -2px rgba(174, 160, 163, 0.61);
+  box-shadow: 0px 5px 13px -2px rgba(174, 160, 163, 0.61);
+}
+.card.welcome {
+background: #00d8db;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #09a8d9, #00d8db);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #09a8d9, #00d8db); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  color: white;
+
+  text-align: left;
+  margin: 16px;  
+  box-shadow: 0 5px 14px 0 rgba(0, 0, 0, 0.22);
+  border-radius: 15px;
+  height: auto;
+  display: block;
+}
+.content-block.apps {
+  background: #0072ff;
+  background: -webkit-linear-gradient(to right, #00c6ff, #0072ff);
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  color: white;
+}
+.content-block-inner.apps {
+  background: #0072ff;
+  background: -webkit-linear-gradient(to right, #00c6ff, #0072ff);
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  color: white;
+}
+/* Basic Tags */
+h1 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 40px;
+}
+
+h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 20px;
+}
+/* Icons */
+.app-icon {
+	border-radius: 30%;
+	width: 40px;
+	height: 40px;
+    box-shadow:0px 0px 10px 0px rgba(46,46,46,1);
+
+}
+/* Buttons */
+.button-install {
+  width: 100%;
+  height: 78px;
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  border-radius: 10px;
+  color: white;
+  border: none;
+}
+/* Icons */
+.i-apps {
+	border-radius: 30%;
+	width: 60px;
+	height: 60px;
+    box-shadow:0px 0px 10px 0px rgba(46,46,46,1);
+
+}
+.home-btn {
+	width: 40px;
+	height: 40px;
+}
+/* Get Button */
+.badge.get {
+    width: 51px;
+    height: 27px !important;
+    line-height: 27px !important;
+    color: #4747e9;
+    background: #e9f4ff;
+    font-weight: 600;
+}
+
+i.reload {
+  width: 30px;
+  height: 30px;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAgHSURBVHhe7Z1pjBRFFMfb+4z3hfeVeCtivCUeqIm3RogH0WgUPBKiCOxO1WxcjYomxjNG5YsngiZ4ED8gogY0UaJR8cB4xCDGKAoKXqigr33/6lq2q7tnZmfpmeqevF/yT89uVXdX1evu6q7jVSAIgiAIgiAIgiAI5WZsuEFQCbcOesMN7X+EljKONgoUDQ80Xcu6n3+/wvqSf//C238CHYb9opWsJawvOOwt3j7K2+tYxwe9tIU9otA03XQYF6JmzWH96Rb6YEXE+iBQ4S28HWbPlB+94bps9G3sXx3AJNo5qNJNbICPsws0Zyn6lnVfUKF9bQoGD46haZE97gxjnNLSQwdxZp7hjKxOFdpApGg577+Et79mhjeSov9YLwXV8CSboubR9JBzzGp4gg0pETocyhl50RRIPDOZooUcbwprPP8+g++kffgq3NweqZ++x0Yl3Jvjnsgax/s/wfssYK1KHzcpetfs1yy4oNzjnGVDSkB3uCVn+gFWnTvCVM7TueAvCSaGO9k9147ecFM+5oVR4dFv2eeFuK5RNI3PvZvdszGlNUiVLuLMfu8mPi6az+FXGaO1kt5wYz7XeXyu17PTwVL0O6trQPVB6QyCq1PR426iY4repk62sdtLhY7kc7/AqvHopNkctr2NnU2pDBJV2p+4CV6T8AWFqQCjdL6RmU5F37GG25hpSmMQRSM4cennNd6IFN3Ad876NmZBCNfh9F3BaV6WkebVrGtsRJdSGETRSFbiS5ql6B2uS/aysYoJHlH4nkimParwu2ysfgpvEE1Xs/5NJBJfyveatqdSgLuFFBsgXbcout1Giii0QarhKE5Q0hiruPK8zMYoFyhcHa5w88NSNNnGKLBBqnQKJ9R9TKEtqkJn2xjlJKrwf3LyFeVtjAkvpEEUHciJca8kGAMtrZ1ADx3CBe1W9rj4cBEWziDRV/BCJ1FIbIXOtTE6g0p4BOctedGhLe1t53/eDaLpsUSCiK+c0Ta0s8Adn/X26MinQdAckkyQontsaGdiGjkTeXbkyyDohdP0QyIx8/kR1uHdqeaV+Hk333H5MoimB52E4Au8O9zThpYDdBFX6Fh+XT+1KUUtx384+V8jHwZBN2vyewPNIWUCTeyaFjt5yEU+DIIW0ngiFH1YvLapBlRoopOH3NRugyg6mE9KTiLK2G2pwvOdPOSm9htkqpMA9GeUFR2O5QJ82eQhL1XoaHv0NqBpCJ/U7X7F16rgieRzF83pgkc0feQYBE3tgifMq65jjJUyRNMnGN7pGmS6DRG8oOlVxyCKLrYhQttBE4MZwBYzSF6D2IRBgA+/uDEUfWZDBC9gnoVrkCk2RPACJsu4BhlvQwQvaJrlGKRCZ9oQwQuavnIMgikBgkcU/ewYJGt+htBGkh37Qn266XAz0AMzhHMHfeRxY2AojFAbTRfwBWyHoPKjfgJtZkNyAo+nuEEUfWNDhCwUPZsorxbMfcFokv4TyDdIPZJNTC3pTVW0I5/oVt5OMM0oQm3QRxQ3CFrJBY8kZ4zJJ4JnFP3oGKSXdrAhQtvpDbdyjIHBg4JHNB3lGATOCASPaLrcMQiGTAkeUfSIYxDMUxQ8ouhzxyCldETTKXTRro4xMDpePN15BJNA4waB9zvBI4rmJQwivarewEQlZ0YA5s7QEBsqtB1FNzt3B7q8BU+ge0LRUscgbZ2FjOYBFd6VmzTdwfI0UTIH4Lwzbgw4aRtPm9jQNtAd7u4kIC/Vcn9UZCLnbK6XPBiorbTOIDPsGcoDnNC4eViaf5dtI1piEOOL6lJ7hnKgwv053X8n8jHJhraRmgYxPrHuZnU3JfRCYq54qTDOA1yXgGg28dKbWvcO4de9Unt2HiAqrKTyDocCXmj0yFLUY2N2JmYmQMpJ23M21AMN6xBObKfOzEUDIryUxvOLYVFeHfGnDbKCjZD0uLbC+JfqJMz3V3KxAOO+0HP9lzIILTaJSvmRomX8v0PtXuUmctLWPzatT3gh8U6WQQCaC5IuN3Dn9NABJrys4HGU8hpn8vawjeGZWgYByQ+lKBx3yggbo1xEHoNc94VRnmYGo8L1bCzP1DMI0HSnG84y7jjoRhujHMC9eLICN6LXzCOsMDQyCMh6T4cUPcmZKfbcEnxHRR+s6SU14JYKqysUioEYBGi6npWoU1hYbkjTOTZWseih/ThttZzyTynOYyrOQA0CKnQ6h6edEENoTMTaU0UgarWdzMrwOGpebSfamAWkGYMATbuw3nT3sTKrsNGDXHnuYWO3F7TMRouR1VhohvOm6Rgbu6A0axAA939wYl9zLSj8n57i30PtHq0FFwCW0Ev29MWFiTcV2tbuUWAGY5A+jEtymu3un5AZbEa3mXl6eWLu1HAsH38e/07XbX3C+b01FA6GtTFIH5iHp+lr9zhZokVcQNNYXazT+E7bzh6hPmYUOgY+Y6wtf8Bh9c/M48eFuo7frko3uC1aaa1/XQ1F79uQ5sBaIuiUUvSeWzANZNYsNM/2Bfz3XN7O5P/N4S0WFfuUt0tS+9QT6g/UI23v6csTTU9HGeJbv0JX2v8OHjRp461L0V+pAmuJzLipWWyI0XxHFOy7YjDgfbxKx5n39jyJhtSM5MLiCj5jLai1EjxRsxEworAor9ulAkaPlrUbwwUJt+Zz+ffydEFnKHqsYeXOqSxt7kAZ+NwiMOYJztMwyAA+cvFGFC3xPcwsuzrQil8QBEEQBEEQBEEQBKEOQfA/2R8w132vlaQAAAAASUVORK5CYII=");
+}
