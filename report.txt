@@ -1,0 +1,619 @@
+[ 2018-06-11 21:48:11 ] full archive url = https://www.asterixinstaller.com/app/
+[ 2018-06-11 21:48:11 ] archive url = https://www.asterixinstaller.com/app/
+[ 2018-06-11 21:48:11 ] website url = www.asterixinstaller.com/app/
+[ 2018-06-11 21:48:11 ] no www url = asterixinstaller.com
+[ 2018-06-11 21:48:11 ] domain = asterixinstaller.com
+[ 2018-06-11 21:48:11 ] subdomain = www
+[ 2018-06-11 21:48:11 ] type( demo or live ) = live
+[ 2018-06-11 21:48:11 ] max_level = 5
+[ 2018-06-11 21:48:11 ] main folder = asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6
+[ 2018-06-11 21:48:11 ] email = connormetry@icloud.com
+[ 2018-06-11 21:48:11 ] scaping_type = all
+[ 2018-06-11 21:48:11 ] file_path_index = app/
+[ 2018-06-11 21:48:11 ] file_path_without_ext_index = app/
+[ 2018-06-11 21:48:11 ] #####################################################################################################
+[ 2018-06-11 21:48:11 ] ###############https://www.asterixinstaller.com/app/ ( Scraping  of 1 / 1 )  - 0 error pages fixed###############
+[ 2018-06-11 21:48:11 ] ###############Local URL = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/index.html###############
+[ 2018-06-11 21:48:11 ] ###############Try number = 1###############
+[ 2018-06-11 21:48:11 ] #####################################################################################################
+[ 2018-06-11 21:48:11 ]  Main level =0
+[ 2018-06-11 21:48:12 ] Original encoding = UTF-8
+[ 2018-06-11 21:48:12 ] Final encoding = UTF-8
+[ 2018-06-11 21:48:12 ] Language = N/A
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		Extract pdf files		**********/
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		End : Extract pdf files		**********/
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		Extract css files		**********/
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] file url = https://www.asterixinstaller.com/app/src/css/framework7.ios.min.css
+[ 2018-06-11 21:48:12 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/framework7.ios.min.css
+[ 2018-06-11 21:48:12 ] scrape_it = 1
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] 
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:12 ] /*******		Extract background_images files		**********/
+[ 2018-06-11 21:48:12 ] /**************************************************************/
+[ 2018-06-11 21:48:13 ] file url = https://www.asterixinstaller.com/app/src/css/../img/i-f7-ios.png
+[ 2018-06-11 21:48:13 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/img/i-f7-ios.png
+[ 2018-06-11 21:48:13 ] scrape_it = 1
+[ 2018-06-11 21:48:14 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:14 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/framework7.ios.min.css --> File Created !!!
+[ 2018-06-11 21:48:14 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:14 ] file url = https://www.asterixinstaller.com/app/src/css/framework7.ios.colors.min.css
+[ 2018-06-11 21:48:14 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/framework7.ios.colors.min.css
+[ 2018-06-11 21:48:14 ] scrape_it = 1
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] /**************************************************************/
+[ 2018-06-11 21:48:14 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-11 21:48:14 ] /**************************************************************/
+[ 2018-06-11 21:48:14 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] /**************************************************************/
+[ 2018-06-11 21:48:14 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:14 ] /**************************************************************/
+[ 2018-06-11 21:48:14 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] /**************************************************************/
+[ 2018-06-11 21:48:14 ] /*******		Extract background_images files		**********/
+[ 2018-06-11 21:48:14 ] /**************************************************************/
+[ 2018-06-11 21:48:14 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-11 21:48:14 ] 
+[ 2018-06-11 21:48:14 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/framework7.ios.colors.min.css --> File Created !!!
+[ 2018-06-11 21:48:14 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:14 ] file url = https://www.asterixinstaller.com/app/src/css/my-app.css
+[ 2018-06-11 21:48:14 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/my-app.css
+[ 2018-06-11 21:48:14 ] scrape_it = 1
+[ 2018-06-11 21:48:15 ] 
+[ 2018-06-11 21:48:15 ] 
+[ 2018-06-11 21:48:15 ] /**************************************************************/
+[ 2018-06-11 21:48:15 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-11 21:48:15 ] /**************************************************************/
+[ 2018-06-11 21:48:15 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-11 21:48:15 ] 
+[ 2018-06-11 21:48:15 ] 
+[ 2018-06-11 21:48:15 ] 
+[ 2018-06-11 21:48:15 ] /**************************************************************/
+[ 2018-06-11 21:48:15 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:15 ] /**************************************************************/
+[ 2018-06-11 21:48:15 ] file url = https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.eot?#iefix
+[ 2018-06-11 21:48:15 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.eot
+[ 2018-06-11 21:48:15 ] scrape_it = 1
+[ 2018-06-11 21:48:15 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.eot --> File Created !!!
+[ 2018-06-11 21:48:15 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:15 ] file url = https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2
+[ 2018-06-11 21:48:15 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2
+[ 2018-06-11 21:48:15 ] scrape_it = 1
+[ 2018-06-11 21:48:15 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2 --> File Created !!!
+[ 2018-06-11 21:48:15 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:15 ] file url = https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff
+[ 2018-06-11 21:48:15 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff
+[ 2018-06-11 21:48:15 ] scrape_it = 1
+[ 2018-06-11 21:48:16 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff --> File Created !!!
+[ 2018-06-11 21:48:16 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:16 ] file url = https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.ttf
+[ 2018-06-11 21:48:16 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.ttf
+[ 2018-06-11 21:48:16 ] scrape_it = 1
+[ 2018-06-11 21:48:16 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.ttf --> File Created !!!
+[ 2018-06-11 21:48:16 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:16 ] file url = https://www.asterixinstaller.com/app/src/css/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.svg#San Francisco Display Ultralight
+[ 2018-06-11 21:48:16 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/app/src/css/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.svg
+[ 2018-06-11 21:48:16 ] scrape_it = 1
+[ 2018-06-11 21:48:17 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:17 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] /**************************************************************/
+[ 2018-06-11 21:48:17 ] /*******		Extract background_images files		**********/
+[ 2018-06-11 21:48:17 ] /**************************************************************/
+[ 2018-06-11 21:48:17 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/my-app.css --> File Created !!!
+[ 2018-06-11 21:48:17 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:17 ] file url = https://www.asterixinstaller.com/app/src/css/ios11.css
+[ 2018-06-11 21:48:17 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/ios11.css
+[ 2018-06-11 21:48:17 ] scrape_it = 1
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] /**************************************************************/
+[ 2018-06-11 21:48:17 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-11 21:48:17 ] /**************************************************************/
+[ 2018-06-11 21:48:17 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] /**************************************************************/
+[ 2018-06-11 21:48:17 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:17 ] /**************************************************************/
+[ 2018-06-11 21:48:17 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] /**************************************************************/
+[ 2018-06-11 21:48:17 ] /*******		Extract background_images files		**********/
+[ 2018-06-11 21:48:17 ] /**************************************************************/
+[ 2018-06-11 21:48:17 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-11 21:48:17 ] 
+[ 2018-06-11 21:48:17 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/ios11.css --> File Created !!!
+[ 2018-06-11 21:48:17 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:17 ] file url = https://www.asterixinstaller.com/app/src/css/main.css
+[ 2018-06-11 21:48:17 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/main.css
+[ 2018-06-11 21:48:17 ] scrape_it = 1
+[ 2018-06-11 21:48:18 ] 
+[ 2018-06-11 21:48:18 ] 
+[ 2018-06-11 21:48:18 ] /**************************************************************/
+[ 2018-06-11 21:48:18 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-11 21:48:18 ] /**************************************************************/
+[ 2018-06-11 21:48:18 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-11 21:48:18 ] 
+[ 2018-06-11 21:48:18 ] 
+[ 2018-06-11 21:48:18 ] 
+[ 2018-06-11 21:48:18 ] /**************************************************************/
+[ 2018-06-11 21:48:18 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:18 ] /**************************************************************/
+[ 2018-06-11 21:48:18 ] file url = https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.eot?#iefix
+[ 2018-06-11 21:48:18 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.eot
+[ 2018-06-11 21:48:18 ] scrape_it = 1
+[ 2018-06-11 21:48:18 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:18 ] file url = https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2
+[ 2018-06-11 21:48:18 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2
+[ 2018-06-11 21:48:18 ] scrape_it = 1
+[ 2018-06-11 21:48:18 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:18 ] file url = https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff
+[ 2018-06-11 21:48:18 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff
+[ 2018-06-11 21:48:18 ] scrape_it = 1
+[ 2018-06-11 21:48:18 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:18 ] file url = https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.ttf
+[ 2018-06-11 21:48:18 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.ttf
+[ 2018-06-11 21:48:18 ] scrape_it = 1
+[ 2018-06-11 21:48:18 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:18 ] file url = https://www.asterixinstaller.com/app/src/css/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.svg#San Francisco Display Ultralight
+[ 2018-06-11 21:48:18 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/app/src/css/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.svg
+[ 2018-06-11 21:48:18 ] scrape_it = 1
+[ 2018-06-11 21:48:18 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:18 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:18 ] 
+[ 2018-06-11 21:48:18 ] 
+[ 2018-06-11 21:48:18 ] 
+[ 2018-06-11 21:48:18 ] /**************************************************************/
+[ 2018-06-11 21:48:18 ] /*******		Extract background_images files		**********/
+[ 2018-06-11 21:48:18 ] /**************************************************************/
+[ 2018-06-11 21:48:23 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-11 21:48:23 ] 
+[ 2018-06-11 21:48:23 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/css/main.css --> File Created !!!
+[ 2018-06-11 21:48:23 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:23 ] file url = https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
+[ 2018-06-11 21:48:23 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
+[ 2018-06-11 21:48:23 ] scrape_it = 1
+[ 2018-06-11 21:48:23 ] 
+[ 2018-06-11 21:48:23 ] 
+[ 2018-06-11 21:48:23 ] /**************************************************************/
+[ 2018-06-11 21:48:23 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-11 21:48:23 ] /**************************************************************/
+[ 2018-06-11 21:48:23 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-11 21:48:23 ] 
+[ 2018-06-11 21:48:23 ] 
+[ 2018-06-11 21:48:23 ] 
+[ 2018-06-11 21:48:23 ] /**************************************************************/
+[ 2018-06-11 21:48:23 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:23 ] /**************************************************************/
+[ 2018-06-11 21:48:23 ] file url = https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.eot?v=4.6.1
+[ 2018-06-11 21:48:23 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.eot
+[ 2018-06-11 21:48:23 ] scrape_it = 1
+[ 2018-06-11 21:48:23 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.eot --> File Created !!!
+[ 2018-06-11 21:48:23 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:23 ] file url = https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.eot?#iefix&v=4.6.1
+[ 2018-06-11 21:48:23 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.eot
+[ 2018-06-11 21:48:23 ] scrape_it = 1
+[ 2018-06-11 21:48:23 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:23 ] file url = https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.woff2?v=4.6.1
+[ 2018-06-11 21:48:23 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.woff2_v_4.6.1
+[ 2018-06-11 21:48:23 ] scrape_it = 1
+[ 2018-06-11 21:48:23 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.woff2_v_4.6.1 --> File Created !!!
+[ 2018-06-11 21:48:23 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:23 ] file url = https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.woff?v=4.6.1
+[ 2018-06-11 21:48:23 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.woff
+[ 2018-06-11 21:48:23 ] scrape_it = 1
+[ 2018-06-11 21:48:23 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.woff --> File Created !!!
+[ 2018-06-11 21:48:23 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:23 ] file url = https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.ttf?v=4.6.1
+[ 2018-06-11 21:48:23 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.ttf
+[ 2018-06-11 21:48:23 ] scrape_it = 1
+[ 2018-06-11 21:48:24 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.ttf --> File Created !!!
+[ 2018-06-11 21:48:24 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:24 ] file url = https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.svg?v=4.6.1#fontawesomeregular
+[ 2018-06-11 21:48:24 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.svg
+[ 2018-06-11 21:48:24 ] scrape_it = 1
+[ 2018-06-11 21:48:24 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/../fonts/fontawesome-webfont.svg --> File Created !!!
+[ 2018-06-11 21:48:24 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:24 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] /**************************************************************/
+[ 2018-06-11 21:48:24 ] /*******		Extract background_images files		**********/
+[ 2018-06-11 21:48:24 ] /**************************************************************/
+[ 2018-06-11 21:48:24 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css --> File Created !!!
+[ 2018-06-11 21:48:24 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:24 ] /*******		End : Extract css files		**********/
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] /**************************************************************/
+[ 2018-06-11 21:48:24 ] /*******		Extract xml files		**********/
+[ 2018-06-11 21:48:24 ] /**************************************************************/
+[ 2018-06-11 21:48:24 ] /*******		End : Extract xml files		**********/
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] /**************************************************************/
+[ 2018-06-11 21:48:24 ] /*******		Extract txt files		**********/
+[ 2018-06-11 21:48:24 ] /**************************************************************/
+[ 2018-06-11 21:48:24 ] /*******		End : Extract txt files		**********/
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] 
+[ 2018-06-11 21:48:24 ] /**************************************************************/
+[ 2018-06-11 21:48:24 ] /*******		Extract script files		**********/
+[ 2018-06-11 21:48:24 ] /**************************************************************/
+[ 2018-06-11 21:48:24 ] file url = https://www.asterixinstaller.com/cdn-cgi/apps/head/7rkaP5OMOzsf9-ITBgeridwaoyE.js
+[ 2018-06-11 21:48:24 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/cdn-cgi/apps/head/7rkaP5OMOzsf9-ITBgeridwaoyE.js
+[ 2018-06-11 21:48:24 ] scrape_it = 1
+[ 2018-06-11 21:48:24 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/cdn-cgi/apps/head/7rkaP5OMOzsf9-ITBgeridwaoyE.js --> File Created !!!
+[ 2018-06-11 21:48:24 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:24 ] file url = http://go.mobisla.com/notice.php?p=1553664&interactive=1&pushup=1
+[ 2018-06-11 21:48:24 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/go.mobisla.com/notice.php_p_1553664_interactive_1_pushup_1.js
+[ 2018-06-11 21:48:24 ] scrape_it = 1
+[ 2018-06-11 21:48:25 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:25 ] file url = http://go.mobtrks.com/notice.php?p=1553666&interstitial=1
+[ 2018-06-11 21:48:25 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/go.mobtrks.com/notice.php_p_1553666_interstitial_1.js
+[ 2018-06-11 21:48:25 ] scrape_it = 1
+[ 2018-06-11 21:48:25 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/go.mobtrks.com/notice.php_p_1553666_interstitial_1.js --> File Created !!!
+[ 2018-06-11 21:48:25 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:25 ] file url = http://defpush.com/ntfc.php?p=1553778
+[ 2018-06-11 21:48:25 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/defpush.com/ntfc.php_p_1553778.js
+[ 2018-06-11 21:48:25 ] scrape_it = 1
+[ 2018-06-11 21:48:26 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/defpush.com/ntfc.php_p_1553778.js --> File Created !!!
+[ 2018-06-11 21:48:26 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:26 ] file url = http://images.dmca.com/Badges/DMCABadgeHelper.min.js
+[ 2018-06-11 21:48:26 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/images.dmca.com/Badges/DMCABadgeHelper.min.js
+[ 2018-06-11 21:48:26 ] scrape_it = 1
+[ 2018-06-11 21:48:26 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/images.dmca.com/Badges/DMCABadgeHelper.min.js --> File Created !!!
+[ 2018-06-11 21:48:26 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:26 ] file url = https://www.asterixinstaller.com/app/src/js/framework7.min.js
+[ 2018-06-11 21:48:26 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/js/framework7.min.js
+[ 2018-06-11 21:48:26 ] scrape_it = 1
+[ 2018-06-11 21:48:26 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/js/framework7.min.js --> File Created !!!
+[ 2018-06-11 21:48:26 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:26 ] file url = https://www.asterixinstaller.com/app/src/js/my-app.js
+[ 2018-06-11 21:48:26 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/js/my-app.js
+[ 2018-06-11 21:48:26 ] scrape_it = 1
+[ 2018-06-11 21:48:26 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/js/my-app.js --> File Created !!!
+[ 2018-06-11 21:48:26 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:26 ] file url = https://www.asterixinstaller.com/app/src/js/inobounce.js
+[ 2018-06-11 21:48:26 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/js/inobounce.js
+[ 2018-06-11 21:48:26 ] scrape_it = 1
+[ 2018-06-11 21:48:27 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/src/js/inobounce.js --> File Created !!!
+[ 2018-06-11 21:48:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:27 ] file url = http://resources.infolinks.com/js/infolinks_main.js
+[ 2018-06-11 21:48:27 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/resources.infolinks.com/js/infolinks_main.js
+[ 2018-06-11 21:48:27 ] scrape_it = 1
+[ 2018-06-11 21:48:27 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/resources.infolinks.com/js/infolinks_main.js --> File Created !!!
+[ 2018-06-11 21:48:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:27 ] file url = https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js
+[ 2018-06-11 21:48:27 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js
+[ 2018-06-11 21:48:27 ] scrape_it = 1
+[ 2018-06-11 21:48:27 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js --> File Created !!!
+[ 2018-06-11 21:48:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:27 ] /*******		End : Extract script files		**********/
+[ 2018-06-11 21:48:27 ] 
+[ 2018-06-11 21:48:27 ] 
+[ 2018-06-11 21:48:27 ] 
+[ 2018-06-11 21:48:27 ] /**************************************************************/
+[ 2018-06-11 21:48:27 ] /*******		Extract img files		**********/
+[ 2018-06-11 21:48:27 ] /**************************************************************/
+[ 2018-06-11 21:48:27 ] file url = https://www.asterixinstaller.com/new3_letter.png
+[ 2018-06-11 21:48:27 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/new3_letter.png
+[ 2018-06-11 21:48:27 ] scrape_it = 1
+[ 2018-06-11 21:48:27 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/new3_letter.png --> File Created !!!
+[ 2018-06-11 21:48:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:27 ] file url = https://www.asterixinstaller.com/app/img/ios12.png
+[ 2018-06-11 21:48:27 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/ios12.png
+[ 2018-06-11 21:48:27 ] scrape_it = 1
+[ 2018-06-11 21:48:27 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/ios12.png --> File Created !!!
+[ 2018-06-11 21:48:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:27 ] file url = http://images.dmca.com/Badges/dmca-badge-w100-5x1-08.png?ID=312cc2b6-f3e7-4dfa-9cba-6932129ef266
+[ 2018-06-11 21:48:27 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/images.dmca.com/Badges/dmca-badge-w100-5x1-08.png
+[ 2018-06-11 21:48:27 ] scrape_it = 1
+[ 2018-06-11 21:48:27 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/images.dmca.com/Badges/dmca-badge-w100-5x1-08.png --> File Created !!!
+[ 2018-06-11 21:48:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:27 ] file url = https://asterixinstaller.com/app/img/pubg.png
+[ 2018-06-11 21:48:27 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/pubg.png
+[ 2018-06-11 21:48:27 ] scrape_it = 1
+[ 2018-06-11 21:48:28 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/pubg.png --> File Created !!!
+[ 2018-06-11 21:48:28 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:28 ] file url = https://lh3.googleusercontent.com/rCkmsTR5SRXnAfD_tpJpAJycYbsQW2tApoREMHs8sKwD9E1HCsW2C18lj7EQXiYGAAA=w300
+[ 2018-06-11 21:48:28 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/lh3.googleusercontent.com/rCkmsTR5SRXnAfD_tpJpAJycYbsQW2tApoREMHs8sKwD9E1HCsW2C18lj7EQXiYGAAA_w300.jpg
+[ 2018-06-11 21:48:28 ] scrape_it = 1
+[ 2018-06-11 21:48:28 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/lh3.googleusercontent.com/rCkmsTR5SRXnAfD_tpJpAJycYbsQW2tApoREMHs8sKwD9E1HCsW2C18lj7EQXiYGAAA_w300.jpeg --> File Created !!!
+[ 2018-06-11 21:48:28 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:28 ] file url = https://cdn6.aptoide.com/imgs/e/a/d/eadd3d8488d753a715be7f4384b9e4fc_icon.png?w=256
+[ 2018-06-11 21:48:28 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/cdn6.aptoide.com/imgs/e/a/d/eadd3d8488d753a715be7f4384b9e4fc_icon.png
+[ 2018-06-11 21:48:28 ] scrape_it = 1
+[ 2018-06-11 21:48:29 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/cdn6.aptoide.com/imgs/e/a/d/eadd3d8488d753a715be7f4384b9e4fc_icon.png --> File Created !!!
+[ 2018-06-11 21:48:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:29 ] file url = https://www.asterixinstaller.com/app/img/bikeracepro.png
+[ 2018-06-11 21:48:29 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/bikeracepro.png
+[ 2018-06-11 21:48:29 ] scrape_it = 1
+[ 2018-06-11 21:48:29 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/bikeracepro.png --> File Created !!!
+[ 2018-06-11 21:48:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:29 ] file url = https://www.asterixinstaller.com/app/img/geometrydash.png
+[ 2018-06-11 21:48:29 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/geometrydash.png
+[ 2018-06-11 21:48:29 ] scrape_it = 1
+[ 2018-06-11 21:48:29 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/geometrydash.png --> File Created !!!
+[ 2018-06-11 21:48:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:29 ] file url = https://www.asterixinstaller.com/app/img/gtasanandreas.png
+[ 2018-06-11 21:48:29 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/gtasanandreas.png
+[ 2018-06-11 21:48:29 ] scrape_it = 1
+[ 2018-06-11 21:48:29 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/gtasanandreas.png --> File Created !!!
+[ 2018-06-11 21:48:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:29 ] file url = https://www.asterixinstaller.com/app/img/minecraft.png
+[ 2018-06-11 21:48:29 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/minecraft.png
+[ 2018-06-11 21:48:29 ] scrape_it = 1
+[ 2018-06-11 21:48:29 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/minecraft.png --> File Created !!!
+[ 2018-06-11 21:48:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:29 ] file url = https://www.asterixinstaller.com/app/img/monumentvalley.png
+[ 2018-06-11 21:48:29 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/monumentvalley.png
+[ 2018-06-11 21:48:29 ] scrape_it = 1
+[ 2018-06-11 21:48:30 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/monumentvalley.png --> File Created !!!
+[ 2018-06-11 21:48:30 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:30 ] file url = https://www.asterixinstaller.com/app/img/plagueinc.png
+[ 2018-06-11 21:48:30 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/plagueinc.png
+[ 2018-06-11 21:48:30 ] scrape_it = 1
+[ 2018-06-11 21:48:30 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/plagueinc.png --> File Created !!!
+[ 2018-06-11 21:48:30 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:30 ] file url = https://asterixinstaller.com/app/img/aerotv.png
+[ 2018-06-11 21:48:30 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/aerotv.png
+[ 2018-06-11 21:48:30 ] scrape_it = 1
+[ 2018-06-11 21:48:30 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/aerotv.png --> File Created !!!
+[ 2018-06-11 21:48:30 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:30 ] file url = https://asterixinstaller.com/app/img/airshou.png
+[ 2018-06-11 21:48:30 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/airshou.png
+[ 2018-06-11 21:48:30 ] scrape_it = 1
+[ 2018-06-11 21:48:30 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/airshou.png --> File Created !!!
+[ 2018-06-11 21:48:30 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:30 ] file url = https://i.imgur.com/ufYqFue.png
+[ 2018-06-11 21:48:30 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/i.imgur.com/ufYqFue.png
+[ 2018-06-11 21:48:30 ] scrape_it = 1
+[ 2018-06-11 21:48:31 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/i.imgur.com/ufYqFue.png --> File Created !!!
+[ 2018-06-11 21:48:31 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:31 ] file url = https://asterixinstaller.com/app/img/bobbymovie.png
+[ 2018-06-11 21:48:31 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/bobbymovie.png
+[ 2018-06-11 21:48:31 ] scrape_it = 1
+[ 2018-06-11 21:48:31 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/bobbymovie.png --> File Created !!!
+[ 2018-06-11 21:48:31 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:31 ] file url = https://asterixinstaller.com/app/img/channels.png
+[ 2018-06-11 21:48:31 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/channels.png
+[ 2018-06-11 21:48:31 ] scrape_it = 1
+[ 2018-06-11 21:48:31 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/channels.png --> File Created !!!
+[ 2018-06-11 21:48:31 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:31 ] file url = https://asterixinstaller.com/app/img/youtube++.png
+[ 2018-06-11 21:48:31 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/youtube__.png
+[ 2018-06-11 21:48:31 ] scrape_it = 1
+[ 2018-06-11 21:48:31 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/youtube__.png --> File Created !!!
+[ 2018-06-11 21:48:31 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:31 ] file url = http://is4.mzstatic.com/image/thumb/Purple122/v4/d1/44/28/d14428f5-327f-a9f2-231a-83fb686599a7/source/512x512bb.jpg
+[ 2018-06-11 21:48:31 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/is4.mzstatic.com/image/thumb/Purple122/v4/d1/44/28/d14428f5-327f-a9f2-231a-83fb686599a7/source/512x512bb.jpg
+[ 2018-06-11 21:48:31 ] scrape_it = 1
+[ 2018-06-11 21:48:32 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/is4.mzstatic.com/image/thumb/Purple122/v4/d1/44/28/d14428f5-327f-a9f2-231a-83fb686599a7/source/512x512bb.jpg --> File Created !!!
+[ 2018-06-11 21:48:32 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:32 ] file url = https://asterixinstaller.com/app/img/delta.png
+[ 2018-06-11 21:48:32 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/delta.png
+[ 2018-06-11 21:48:32 ] scrape_it = 1
+[ 2018-06-11 21:48:32 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/delta.png --> File Created !!!
+[ 2018-06-11 21:48:32 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:32 ] file url = https://asterixinstaller.com/app/img/deezer++.png
+[ 2018-06-11 21:48:32 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/deezer__.png
+[ 2018-06-11 21:48:32 ] scrape_it = 1
+[ 2018-06-11 21:48:32 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/deezer__.png --> File Created !!!
+[ 2018-06-11 21:48:32 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:32 ] file url = https://i.imgur.com/Xy6IrMf.png
+[ 2018-06-11 21:48:32 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/i.imgur.com/Xy6IrMf.png
+[ 2018-06-11 21:48:32 ] scrape_it = 1
+[ 2018-06-11 21:48:32 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/i.imgur.com/Xy6IrMf.png --> File Created !!!
+[ 2018-06-11 21:48:32 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:32 ] file url = https://asterixinstaller.com/app/img/facebook++.png
+[ 2018-06-11 21:48:32 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/facebook__.png
+[ 2018-06-11 21:48:32 ] scrape_it = 1
+[ 2018-06-11 21:48:33 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/facebook__.png --> File Created !!!
+[ 2018-06-11 21:48:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:33 ] file url = https://asterixinstaller.com/app/img/gba4ios.png
+[ 2018-06-11 21:48:33 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/gba4ios.png
+[ 2018-06-11 21:48:33 ] scrape_it = 1
+[ 2018-06-11 21:48:33 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/gba4ios.png --> File Created !!!
+[ 2018-06-11 21:48:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:33 ] file url = https://asterixinstaller.com/app/img/happychick.png
+[ 2018-06-11 21:48:33 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/happychick.png
+[ 2018-06-11 21:48:33 ] scrape_it = 1
+[ 2018-06-11 21:48:33 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/happychick.png --> File Created !!!
+[ 2018-06-11 21:48:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:33 ] file url = https://asterixinstaller.com/app/img/inds.png
+[ 2018-06-11 21:48:33 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/inds.png
+[ 2018-06-11 21:48:33 ] scrape_it = 1
+[ 2018-06-11 21:48:34 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/inds.png --> File Created !!!
+[ 2018-06-11 21:48:34 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:34 ] file url = https://asterixinstaller.com/app/img/instagram++.png
+[ 2018-06-11 21:48:34 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/instagram__.png
+[ 2018-06-11 21:48:34 ] scrape_it = 1
+[ 2018-06-11 21:48:34 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/instagram__.png --> File Created !!!
+[ 2018-06-11 21:48:34 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:34 ] file url = https://cdn.tweakboxapp.com/icons/kahootkiller.png
+[ 2018-06-11 21:48:34 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/cdn.tweakboxapp.com/icons/kahootkiller.png
+[ 2018-06-11 21:48:34 ] scrape_it = 1
+[ 2018-06-11 21:48:34 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/cdn.tweakboxapp.com/icons/kahootkiller.png --> File Created !!!
+[ 2018-06-11 21:48:34 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:34 ] file url = https://asterixinstaller.com/app/img/livewire.png
+[ 2018-06-11 21:48:34 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/livewire.png
+[ 2018-06-11 21:48:34 ] scrape_it = 1
+[ 2018-06-11 21:48:35 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/livewire.png --> File Created !!!
+[ 2018-06-11 21:48:35 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:35 ] file url = https://asterixinstaller.com/app/img/moviebox.png
+[ 2018-06-11 21:48:35 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/moviebox.png
+[ 2018-06-11 21:48:35 ] scrape_it = 1
+[ 2018-06-11 21:48:36 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/moviebox.png --> File Created !!!
+[ 2018-06-11 21:48:36 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:36 ] file url = https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/11/fe/c6/11fec60a-da95-f60c-4a50-039208cb4d35/mzl.tbdzqccp.png/230x0w.jpg
+[ 2018-06-11 21:48:36 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/is4-ssl.mzstatic.com/image/thumb/Purple128/v4/11/fe/c6/11fec60a-da95-f60c-4a50-039208cb4d35/mzl.tbdzqccp.png/230x0w.jpg
+[ 2018-06-11 21:48:36 ] scrape_it = 1
+[ 2018-06-11 21:48:36 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/is4-ssl.mzstatic.com/image/thumb/Purple128/v4/11/fe/c6/11fec60a-da95-f60c-4a50-039208cb4d35/mzl.tbdzqccp.png/230x0w.jpg --> File Created !!!
+[ 2018-06-11 21:48:36 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:36 ] file url = https://asterixinstaller.com/app/img/napster++.png
+[ 2018-06-11 21:48:36 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/napster__.png
+[ 2018-06-11 21:48:36 ] scrape_it = 1
+[ 2018-06-11 21:48:37 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/napster__.png --> File Created !!!
+[ 2018-06-11 21:48:37 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:37 ] file url = https://asterixinstaller.com/app/img/nba++.png
+[ 2018-06-11 21:48:37 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/nba__.png
+[ 2018-06-11 21:48:37 ] scrape_it = 1
+[ 2018-06-11 21:48:37 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/nba__.png --> File Created !!!
+[ 2018-06-11 21:48:37 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:37 ] file url = https://asterixinstaller.com/app/img/newgamepad.png
+[ 2018-06-11 21:48:37 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/newgamepad.png
+[ 2018-06-11 21:48:37 ] scrape_it = 1
+[ 2018-06-11 21:48:38 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/newgamepad.png --> File Created !!!
+[ 2018-06-11 21:48:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:38 ] file url = https://asterixinstaller.com/app/img/pandora++.png
+[ 2018-06-11 21:48:38 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/pandora__.png
+[ 2018-06-11 21:48:38 ] scrape_it = 1
+[ 2018-06-11 21:48:38 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/pandora__.png --> File Created !!!
+[ 2018-06-11 21:48:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:38 ] file url = https://asterixinstaller.com/app/img/popcorntime.png
+[ 2018-06-11 21:48:38 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/popcorntime.png
+[ 2018-06-11 21:48:38 ] scrape_it = 1
+[ 2018-06-11 21:48:38 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/popcorntime.png --> File Created !!!
+[ 2018-06-11 21:48:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:38 ] file url = https://asterixinstaller.com/app/img/ppsspp.png
+[ 2018-06-11 21:48:38 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/ppsspp.png
+[ 2018-06-11 21:48:38 ] scrape_it = 1
+[ 2018-06-11 21:48:39 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/ppsspp.png --> File Created !!!
+[ 2018-06-11 21:48:39 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:39 ] file url = https://asterixinstaller.com/app/img/provenance.png
+[ 2018-06-11 21:48:39 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/provenance.png
+[ 2018-06-11 21:48:39 ] scrape_it = 1
+[ 2018-06-11 21:48:39 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/provenance.png --> File Created !!!
+[ 2018-06-11 21:48:39 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:39 ] file url = https://www.trendsmap.com/ipx/https://pbs.twimg.com/profile_images/914822262846394368/CmldT-iA.jpg
+[ 2018-06-11 21:48:39 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/www.trendsmap.com/ipx/https_/pbs.twimg.com/profile_images/914822262846394368/CmldT-iA.jpg
+[ 2018-06-11 21:48:39 ] scrape_it = 1
+[ 2018-06-11 21:48:40 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/www.trendsmap.com/ipx/https_/pbs.twimg.com/profile_images/914822262846394368/CmldT-iA.jpg --> File Created !!!
+[ 2018-06-11 21:48:40 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:40 ] file url = https://asterixinstaller.com/app/img/saavn++.png
+[ 2018-06-11 21:48:40 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/saavn__.png
+[ 2018-06-11 21:48:40 ] scrape_it = 1
+[ 2018-06-11 21:48:40 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/saavn__.png --> File Created !!!
+[ 2018-06-11 21:48:40 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:40 ] file url = https://asterixinstaller.com/app/img/tweaksm.png
+[ 2018-06-11 21:48:40 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/tweaksm.png
+[ 2018-06-11 21:48:40 ] scrape_it = 1
+[ 2018-06-11 21:48:40 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/tweaksm.png --> File Created !!!
+[ 2018-06-11 21:48:40 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:40 ] file url = https://asterixinstaller.com/app/img/spotify++.png
+[ 2018-06-11 21:48:40 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/spotify__.png
+[ 2018-06-11 21:48:40 ] scrape_it = 1
+[ 2018-06-11 21:48:41 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/spotify__.png --> File Created !!!
+[ 2018-06-11 21:48:41 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:41 ] file url = https://asterixinstaller.com/app/img/tinder++.png
+[ 2018-06-11 21:48:41 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/tinder__.png
+[ 2018-06-11 21:48:41 ] scrape_it = 1
+[ 2018-06-11 21:48:41 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/tinder__.png --> File Created !!!
+[ 2018-06-11 21:48:41 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:41 ] file url = https://asterixinstaller.com/app/img/twitter++.png
+[ 2018-06-11 21:48:41 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/twitter__.png
+[ 2018-06-11 21:48:41 ] scrape_it = 1
+[ 2018-06-11 21:48:41 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/twitter__.png --> File Created !!!
+[ 2018-06-11 21:48:41 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:41 ] file url = https://asterixinstaller.com/app/img/ufc++.png
+[ 2018-06-11 21:48:41 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/ufc__.png
+[ 2018-06-11 21:48:41 ] scrape_it = 1
+[ 2018-06-11 21:48:42 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/ufc__.png --> File Created !!!
+[ 2018-06-11 21:48:42 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:42 ] file url = https://asterixinstaller.com/app/img/whatsapp++.png
+[ 2018-06-11 21:48:42 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/whatsapp__.png
+[ 2018-06-11 21:48:42 ] scrape_it = 1
+[ 2018-06-11 21:48:42 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/whatsapp__.png --> File Created !!!
+[ 2018-06-11 21:48:42 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:42 ] file url = https://asterixinstaller.com/app/img/xcleaner.png
+[ 2018-06-11 21:48:42 ] local_file_full_path = files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/xcleaner.png
+[ 2018-06-11 21:48:42 ] scrape_it = 1
+[ 2018-06-11 21:48:42 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/app/img/xcleaner.png --> File Created !!!
+[ 2018-06-11 21:48:42 ] -------------------------------------------------------------------------------------------
+[ 2018-06-11 21:48:42 ] /*******		End : Extract img files		**********/
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:42 ] /**************************************************************/
+[ 2018-06-11 21:48:42 ] /*******		Extract background_images files		**********/
+[ 2018-06-11 21:48:42 ] /**************************************************************/
+[ 2018-06-11 21:48:42 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:42 ] /**************************************************************/
+[ 2018-06-11 21:48:42 ] /*******		Extract background_images_in_html files		**********/
+[ 2018-06-11 21:48:42 ] /**************************************************************/
+[ 2018-06-11 21:48:42 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:42 ] /**************************************************************/
+[ 2018-06-11 21:48:42 ] /*******		Extract swf files		**********/
+[ 2018-06-11 21:48:42 ] /**************************************************************/
+[ 2018-06-11 21:48:42 ] /*******		End : Extract swf files		**********/
+[ 2018-06-11 21:48:42 ] 
+[ 2018-06-11 21:48:43 ] Original url : https://www.asterixinstaller.com//www.dmca.com/Protection/Status.aspx?ID=312cc2b6-f3e7-4dfa-9cba-6932129ef266 - 0/1
+[ 2018-06-11 21:48:43 ] Try 'http' protocol = http://www.asterixinstaller.com//www.dmca.com/Protection/Status.aspx?ID=312cc2b6-f3e7-4dfa-9cba-6932129ef266 ( code = 404 )
+[ 2018-06-11 21:48:43 ] Final url : ( code=404 )
+[ 2018-06-11 21:48:43 ] Removed external links total ( 0 / 0 )
+[ 2018-06-11 21:48:43 ] Partial Size : 6340
+[ 2018-06-11 21:48:43 ] size_limit_KO : 10000
+[ 2018-06-11 21:48:43 ] files/live/asterixinstaller.com_connormetry_icloud.com_0qmbj6cwhf6/index.html --> HTML File Created !!!
+[ 2018-06-11 21:48:43 ] ----------------------------------------------------------------------
+[ 2018-06-11 21:48:43 ] ( 1 / 1 )  Done - 1 error pages fixed
+[ 2018-06-11 21:48:43 ] Final Size : 6344
